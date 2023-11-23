@@ -174,7 +174,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/geostories" 
+<a href ="../programme-item/geostories" 
     class="tt-line-block " style="left:34em; width: 12em;" 
     data-action="click->timeTable#onClick"
     data-artist="DESIGN EARTH: Rania Ghosn"
@@ -198,7 +198,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/comparative-planetology" 
+<a href ="../programme-item/comparative-planetology" 
     class="tt-line-block " style="left:46em; width: 12em;" 
     data-action="click->timeTable#onClick"
     data-artist="Lukáš Likavčan"
@@ -222,7 +222,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/enchanted-realists-situated-partial-viral" 
+<a href ="../programme-item/enchanted-realists-situated-partial-viral" 
     class="tt-line-block " style="left:70em; width: 12em;" 
     data-action="click->timeTable#onClick"
     data-artist="Elaine Gan"
@@ -246,7 +246,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/cloud-walking-meditations-on-a-year-without-a-winter" 
+<a href ="../programme-item/cloud-walking-meditations-on-a-year-without-a-winter" 
     class="tt-line-block " style="left:82em; width: 12em;" 
     data-action="click->timeTable#onClick"
     data-artist="Dehlia Hannah"
@@ -270,7 +270,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/as-we-used-to-float-iroojrilik" 
+<a href ="../programme-item/as-we-used-to-float-iroojrilik" 
     class="tt-line-block " style="left:94em; width: 12em;" 
     data-action="click->timeTable#onClick"
     data-artist="Nadim Samman"
@@ -296,7 +296,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
 
         
 
-<a href ="../programme/day2-block-1" 
+<a href ="../programme-item/day2-block-1" 
     class="tt-line-block tt-line-block-extra" style="left:34em; width: 24em;" 
     data-action="click->timeTable#onClick"
     data-artist=""
@@ -315,7 +315,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
 
         
 
-<a href ="../programme/day2-block-2" 
+<a href ="../programme-item/day2-block-2" 
     class="tt-line-block tt-line-block-extra" style="left:70em; width: 36em;" 
     data-action="click->timeTable#onClick"
     data-artist=""
@@ -336,7 +336,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/on-a-psychedelic-becoming" 
+<a href ="../programme-item/on-a-psychedelic-becoming" 
     class="tt-line-block " style="left:142em; width: 6em;" 
     data-action="click->timeTable#onClick"
     data-artist="Hugo Esquinca"
@@ -360,7 +360,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/a-live-mækur-radio-broadcast" 
+<a href ="../programme-item/a-live-mækur-radio-broadcast" 
     class="tt-line-block " style="left:130em; width: 8em;" 
     data-action="click->timeTable#onClick"
     data-artist="MÆKUR: Anton Kats + Eva Rowson + Maia Urstad"
@@ -384,7 +384,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/bodyvice" 
+<a href ="../programme-item/bodyvice" 
     class="tt-line-block " style="left:152em; width: 10em;" 
     data-action="click->timeTable#onClick"
     data-artist="Lone Taxidermist"
@@ -409,7 +409,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
 
     
 
-<a href ="../programme/transmissions-interventions-voice-body-chance" 
+<a href ="../programme-item/transmissions-interventions-voice-body-chance" 
     class="tt-line-block tt-line-block-extra" style="left:130em; width: 33em;" 
     data-action="click->timeTable#onClick"
     data-artist=""
@@ -439,7 +439,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/ultramarine" 
+<a href ="../programme-item/ultramarine" 
     class="tt-line-block " style="left:10em; width: 84em;" 
     data-action="click->timeTable#onClick"
     data-artist="Vincent Meessen"
@@ -472,7 +472,7 @@ src="https://www.facebook.com/tr?id=1532608503556117&ev=PageView&noscript=1" /><
     
     
 
-<a href ="../programme/only-expansion" 
+<a href ="../programme-item/only-expansion" 
     class="tt-line-block " style="left:10em; width: 96em;" 
     data-action="click->timeTable#onClick"
     data-artist="Duncan Speakman"
