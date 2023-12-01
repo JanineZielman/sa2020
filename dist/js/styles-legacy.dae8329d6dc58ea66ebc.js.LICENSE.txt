@@ -1,0 +1,8 @@
+/*!
+ * @project        Sonic Acts 2020
+ * @name           styles-legacy.dae8329d6dc58ea66ebc.js
+ * @author         undefined
+ * @build          Tue, May 19, 2020 1:46 PM ET
+ * @copyright      Copyright (c) 2020 TheRodina
+ *
+ */

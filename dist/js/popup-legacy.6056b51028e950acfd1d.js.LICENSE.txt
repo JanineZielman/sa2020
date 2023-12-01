@@ -1,0 +1,8 @@
+/*!
+ * @project        Sonic Acts 2020
+ * @name           popup-legacy.6056b51028e950acfd1d.js
+ * @author         undefined
+ * @build          Tue, May 19, 2020 1:46 PM ET
+ * @copyright      Copyright (c) 2020 TheRodina
+ *
+ */
